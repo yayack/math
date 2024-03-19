@@ -1,4 +1,6 @@
-how to use
+how to use?
+
+pip install mathx0208
 
 import mathx0208
 
