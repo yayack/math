@@ -2,10 +2,10 @@ how to use
 
 import mathx0208
 
-add(x,y) 
+add(a, b) 
 
-subtract(x,y) 
+subtract(a, b) 
 
-multiply(x,y) 
+multiply(a, b) 
 
-divide(x,y) 
+divide(a, b) 
